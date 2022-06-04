@@ -60,7 +60,7 @@ public class aboutus extends JFrame {
 		separator_1.setBounds(20, 259, 477, 9);
 		contentPane.add(separator_1);
 		
-		JLabel lblSagarBhoi = new JLabel("Sagar Bhoi & Vaishnavi Sharma");
+		JLabel lblSagarBhoi = new JLabel("Sagar Bhoi");
 		lblSagarBhoi.setHorizontalAlignment(SwingConstants.CENTER);
 		lblSagarBhoi.setForeground(Color.WHITE);
 		lblSagarBhoi.setFont(new Font("Source Sans Pro Light", Font.BOLD, 13));
