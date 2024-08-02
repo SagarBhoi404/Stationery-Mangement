@@ -21,7 +21,7 @@ The Stationery Management System is a desktop application developed for managing
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/SagarBhoi404/Stationery-Mangement.git
-    cd stationery-management-system
+    cd Stationery Mangement
     ```
 
 2. **Setup MySQL Database**:
